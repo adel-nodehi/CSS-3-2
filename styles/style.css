@@ -1,0 +1,13 @@
+header {
+  font-size: 24px;
+}
+
+.header_title {
+  background-color: red;
+  color: #fff;
+
+  font-size: 15px;
+  font-size: 2em;
+
+  /* width: 2em; */
+}
